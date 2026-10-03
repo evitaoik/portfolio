@@ -1,0 +1,513 @@
+{
+  "profile": {
+    "name": "Evita",
+    "fullName": "Evita Oikonomidou",
+    "title": "Junior Unity Game Developer",
+    "photo": "/media/evita-portrait.jpg",
+    "focus": "C# Gameplay · Testing & Debugging · VR/XR",
+    "location": "Prague, Czech Republic",
+    "introduction": "I’m a Junior Unity Game Developer who loves creating worlds and turning game ideas into playable prototypes. I enjoy experimenting with gameplay, building in Unity and C#, and learning through both personal projects and team game jams. Outside of game development, I love travelling and summer — discovering new places, spending time by the sea, and bringing a little of that feeling into the worlds I make.",
+    "about": "I’m Evita, a Unity developer based in Prague and an MSc student in Gaming & Multimedia Application Development. I work on the parts that make a game feel alive: how a character moves, how a puzzle responds, and how a level comes together. My background in STEM education and e-learning also draws me to games that help people explore and learn. Some of these worlds are mine; others were made with a team. I share my own part in each project.",
+    "email": "evitaoikon@gmail.com",
+    "cv": "/documents/CV_EVITA_OIKONOMIDOU.pdf",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/evitaoik"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/evita-oikonomidou"
+      },
+      {
+        "label": "itch.io",
+        "url": "https://evita-oikon.itch.io/"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Unity Gameplay & Level Design Intern",
+        "company": "EventokenX",
+        "date": "Jun – Jul 2026",
+        "summary": "Gameplay features, character interactions and colliders, testing, and level layout refinement on a confidential Unity project."
+      },
+      {
+        "role": "Unity Developer Intern",
+        "company": "Mismatch",
+        "date": "Apr 2024 – Jan 2025",
+        "summary": "Real-time 3D Unity development, custom rendering and frame-streaming pipelines, and socket communication with external systems."
+      },
+      {
+        "role": "Project Assistant",
+        "company": "Czech Technical University in Prague",
+        "date": "Jul 2025 – Jul 2026",
+        "summary": "Image and video annotation, data preparation, quality checks, and project documentation."
+      },
+      {
+        "role": "E-learning Content Developer",
+        "company": "OTE Group of Companies",
+        "date": "Oct 2024 – May 2025",
+        "summary": "Interactive mathematics content using multimedia, Moodle, and game-based learning elements."
+      }
+    ],
+    "education": [
+      {
+        "title": "MSc · Gaming & Multimedia Application Development",
+        "institution": "University of Western Macedonia",
+        "date": "Oct 2025 – Present",
+        "description": "Unity/C#, game development, AR/VR, and interactive 2D/3D systems."
+      },
+      {
+        "title": "MEd · Mathematics, Science & ICT in Education",
+        "institution": "University of the Aegean",
+        "date": "Feb 2023",
+        "description": "Didactics of Mathematics, Science, and ICT in Education: Interdisciplinary Approach."
+      },
+      {
+        "title": "AR & VR Applications with Unity · Certificate",
+        "institution": "National and Kapodistrian University of Athens",
+        "date": "2024 · 155 training hours",
+        "description": "Training in the design and development of AR and VR applications."
+      }
+    ],
+    "languages": "Greek · Native / English · Professional / French · Basic"
+  },
+  "projects": [
+    {
+      "id": "aegean-memories",
+      "title": "Nostos",
+      "category": "2D Games",
+      "projectType": "Personal project",
+      "featured": true,
+      "platform": "Browser / HTML5",
+      "tagline": "A Greek summer album, brought to life.",
+      "summary": "A solo-developed 2D Unity platformer through Amorgos and Mani. Run, jump, and swim through two Greek landscapes, collect shells and olives, and gradually unlock a summer photo album.",
+      "description": "I developed Nostos entirely on my own. It is an atmospheric 2D journey through two places in Greece. The Amorgos level pairs coastal platforming and swimming with seashell collection and sea-urchin hazards. The Mani level introduces a more rugged Mediterranean landscape, olives, and environmental hazards. Progress unlocks photographs and memories, connecting exploration with a visual summer album. Originally developed as AegeanMemories, the project is now released as Nostos and playable in the browser.",
+      "role": "Solo developer · Unity development & game design",
+      "status": "Released",
+      "highlight": "Developed the entire game independently: gameplay, level design, collectible progression, and the photo-memory album.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "2D",
+        "HTML5"
+      ],
+      "contributions": [
+        "Developed running, jumping, and swimming for exploration across land and underwater areas.",
+        "Created distinct Amorgos and Mani levels with seashell and olive collectibles and environmental hazards.",
+        "Connected collectible progression with photograph unlocks, memory overlays, and the summer album interface.",
+        "Published the completed Unity game as a playable HTML5 experience on itch.io."
+      ],
+      "cover": {
+        "src": "/media/nostos-amorgos.webp",
+        "alt": "Nostos gameplay in Amorgos with blue sea, seashells, and coastal platforms",
+        "caption": "Actual gameplay"
+      },
+      "media": [
+        {
+          "type": "video",
+          "src": "/media/nostos-gameplay.mp4",
+          "poster": "/media/nostos-amorgos.webp",
+          "alt": "Nostos gameplay recording with game music and effects",
+          "label": "Gameplay · 1:05",
+          "caption": "A minute of Greek summer: platforming, swimming, and collecting memories. Recorded from my game, with its original sound."
+        },
+        {
+          "type": "image",
+          "src": "/media/nostos-amorgos.webp",
+          "alt": "Amorgos gameplay with coastal platforms, seashell collectibles, and the memory counter",
+          "label": "Amorgos",
+          "caption": "Seashells, sea views, and a little platforming in Amorgos."
+        },
+        {
+          "type": "image",
+          "src": "/media/nostos-mani.webp",
+          "alt": "Mani gameplay with rocky platforms, olive collectibles, and Mediterranean vegetation",
+          "label": "Mani",
+          "caption": "A different summer landscape: olive collecting in Mani."
+        },
+        {
+          "type": "image",
+          "src": "/media/nostos-swimming.webp",
+          "alt": "The player swimming underwater near jellyfish and rocky platforms",
+          "label": "Swimming",
+          "caption": "Exploring below the surface."
+        },
+        {
+          "type": "image",
+          "src": "/media/nostos-photo-unlock.webp",
+          "alt": "A summer photograph unlocked over the dimmed Amorgos level",
+          "label": "A memory returns",
+          "caption": "Collecting a little piece of summer unlocks a photograph."
+        },
+        {
+          "type": "image",
+          "src": "/media/nostos-album.webp",
+          "alt": "Our Summer Album showing four unlocked photographs and remaining locked memories",
+          "label": "Summer album",
+          "caption": "The memories come together in a summer photo album."
+        },
+        {
+          "type": "image",
+          "src": "/media/nostos-menu.webp",
+          "alt": "Nostos main menu with photographs for the Amorgos and Mani levels",
+          "label": "Choose a summer",
+          "caption": "Two places, two summer journeys."
+        }
+      ],
+      "playUrl": "https://evita-oikon.itch.io/nostos",
+      "linkLabel": "Play Nostos in browser"
+    },
+    {
+      "id": "elven-heist",
+      "title": "The Gold Thief: An Elven Heist",
+      "category": "3D Games",
+      "projectType": "Personal project",
+      "platform": "Browser / HTML5",
+      "tagline": "A little thief. A loyal dog. One daring heist.",
+      "summary": "My 3D Unity stealth game set in a colourful elven village. Collect gold, slip past patrols, and use a dog distraction to escape before dawn.",
+      "description": "Sneak through a low-poly village, gather gold, and escape before the countdown reaches dawn. Guards watch their surroundings, running makes noise, and a loyal dog can create the opening you need. The gameplay recording shows patrol sight cones, hidden and spotted states, a map, the gold counter, and the final escape result.",
+      "role": "Solo Unity development",
+      "status": "Released",
+      "highlight": "A stealth adventure built around gold collection, guard patrols, and a dog distraction.",
+      "technologies": [
+        "Unity",
+        "3D",
+        "HTML5"
+      ],
+      "contributions": [
+        "Developed this game as an individual Unity project.",
+        "Brought together the village exploration, stealth encounters, gold collection, and escape flow shown in the gameplay demo."
+      ],
+      "cover": {
+        "src": "/media/elven-menu.webp",
+        "alt": "The Gold Thief main menu over a colourful low-poly elven village",
+        "caption": "Actual game screen"
+      },
+      "media": [
+        {
+          "type": "video",
+          "src": "/media/elven-heist-gameplay.mp4",
+          "poster": "/media/elven-village.webp",
+          "alt": "The Gold Thief: An Elven Heist gameplay with original sound",
+          "label": "Gameplay · 0:54",
+          "caption": "A short heist in action, recorded from my game with its original sound."
+        },
+        {
+          "type": "image",
+          "src": "/media/elven-village.webp",
+          "alt": "The thief exploring the elven village with gold, timer, health, and dog distraction indicators",
+          "label": "The village",
+          "caption": "Finding a route through the village."
+        },
+        {
+          "type": "image",
+          "src": "/media/elven-patrols.webp",
+          "alt": "Guard patrol sight cones near the thief in the village",
+          "label": "Guard patrols",
+          "caption": "Watching the patrols and staying out of sight."
+        },
+        {
+          "type": "image",
+          "src": "/media/elven-chase.webp",
+          "alt": "The player spotted by guards with a chase warning and red sight cones",
+          "label": "Spotted!",
+          "caption": "A quiet heist can turn into a chase."
+        },
+        {
+          "type": "image",
+          "src": "/media/elven-map.webp",
+          "alt": "An expanded circular map of the village and its collectible and character markers",
+          "label": "Village map",
+          "caption": "Planning the next move on the village map."
+        },
+        {
+          "type": "image",
+          "src": "/media/elven-escape.webp",
+          "alt": "You Escaped result showing collected gold, remaining time, and a star score",
+          "label": "The escape",
+          "caption": "The gold is yours — if you can make it out."
+        },
+        {
+          "type": "image",
+          "src": "/media/elven-menu.webp",
+          "alt": "The Gold Thief menu with Play, Story, How to Play, Options, and Quit",
+          "label": "Main menu",
+          "caption": "The Gold Thief: An Elven Heist."
+        }
+      ],
+      "playUrl": "https://evita-oikon.itch.io/the-gold-thief",
+      "linkLabel": "Play the heist in browser"
+    },
+    {
+      "id": "aegean-escape-vr",
+      "title": "Aegean Escape VR",
+      "category": "XR",
+      "projectType": "Individual project",
+      "platform": "itch.io / HTML5",
+      "tagline": "Two rooms. Hands-on puzzles. One way out.",
+      "summary": "A short Unity VR escape room inspired by the Aegean, with object interaction, key discovery, and an object-placement puzzle.",
+      "description": "Explore two rooms, use virtual hands to interact with objects, discover the correct key, and solve a placement puzzle to escape. The experience combines VR movement and teleportation with grabbing, timed puzzle progression, sound feedback, and replay functionality.",
+      "role": "Unity & XR development",
+      "status": "Released",
+      "highlight": "XR locomotion, object grabbing, puzzle progression, and completion/replay flow.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "XR Interaction Toolkit"
+      ],
+      "contributions": [
+        "Developed a Unity VR escape-room experience with XR Interaction Toolkit.",
+        "Integrated locomotion, teleportation, virtual-hand interactions, and object grabbing.",
+        "Connected key discovery and object-placement puzzles with a timer, sound feedback, and replay functionality."
+      ],
+      "cover": {
+        "src": "/media/aegean-escape-vr-cover.webp",
+        "alt": "Aegean Escape VR cover from its itch.io project page",
+        "caption": "Project cover from itch.io"
+      },
+      "media": [
+        {
+          "type": "video",
+          "src": "/media/aegean-escape-vr-gameplay.mp4",
+          "poster": "/media/vr-object-interaction.webp",
+          "alt": "Aegean Escape VR gameplay recording showing virtual-hand interactions and escape-room puzzles",
+          "label": "Gameplay · 2:49",
+          "caption": "A full escape-room walkthrough with the original game sound. Recorded using the desktop XR controls."
+        },
+        {
+          "type": "image",
+          "src": "/media/vr-object-interaction.webp",
+          "alt": "Virtual hands exploring a table with flower vases and keys",
+          "label": "Object interaction",
+          "caption": "Reach out, grab objects, and look for the right key."
+        },
+        {
+          "type": "image",
+          "src": "/media/vr-placement-puzzle.webp",
+          "alt": "Virtual hands facing the Shell, Starfish, and Anchor object-placement baskets",
+          "label": "Placement puzzle",
+          "caption": "Putting the right object in the right place."
+        },
+        {
+          "type": "image",
+          "src": "/media/vr-room-exploration.webp",
+          "alt": "Virtual hands and interaction rays exploring chairs, a table, and a starfish",
+          "label": "Room exploration",
+          "caption": "Exploring the room and its hidden puzzle objects."
+        },
+        {
+          "type": "image",
+          "src": "/media/vr-shell-interaction.webp",
+          "alt": "A seashell floating between virtual hands near flower vases and bookshelves",
+          "label": "Hands-on puzzles",
+          "caption": "Small objects become part of the escape-room puzzle."
+        }
+      ],
+      "playUrl": "https://evita-oikon.itch.io/aegean-escape-vr",
+      "linkLabel": "Open on itch.io",
+      "sourceUrl": "https://github.com/evitaoik/AegeanEscapeVR"
+    },
+    {
+      "id": "cat-crawler",
+      "title": "Cat Crawler?",
+      "category": "2D Games",
+      "projectType": "Team game jam",
+      "platform": "Windows",
+      "tagline": "Follow the cat. Think outside the boxes.",
+      "summary": "A team-made Unity puzzle game where a cat moves through neighbouring boxes in search of a mouse. Created for Bad Ideas Game Jam 2026.",
+      "description": "Guide a cat through a grid of boxes and search for its target. Move into a neighbouring box with a mouse click and use E to eat its contents. The game was created by a four-person team and is available as a Windows download.",
+      "role": "C# gameplay & tile interactions",
+      "status": "Released",
+      "highlight": "Tile and item interaction scripts, exit outcomes, and the timed final reveal.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "Yarn Spinner",
+        "FMOD",
+        "TextMeshPro"
+      ],
+      "contributions": [
+        "Worked on the tile scripts, including empty, action, and exit tiles, and the shared item interaction code.",
+        "Connected exit-tile behaviour to the player’s state and the game’s win or lose outcome.",
+        "Refined the final reveal sequence with timed box closing and reopening and the cat or mouse outcome."
+      ],
+      "cover": {
+        "src": "/media/2d-cat-crawler-cover.webp",
+        "alt": "Cat Crawler? cover from its itch.io project page",
+        "caption": "Project cover from itch.io"
+      },
+      "media": [
+        {
+          "type": "video",
+          "src": "/media/cat-crawler-demo.mp4",
+          "poster": "/media/2d-cat-crawler-screen-2.webp",
+          "alt": "Cat Crawler? gameplay demonstration",
+          "label": "Gameplay video",
+          "caption": "Gameplay demo published in the team’s GitHub repository."
+        },
+        {
+          "type": "image",
+          "src": "/media/2d-cat-crawler-screen-1.webp",
+          "alt": "Cat Crawler? project artwork",
+          "label": "Project artwork",
+          "caption": "Actual project image from Cat Crawler? on itch.io."
+        },
+        {
+          "type": "image",
+          "src": "/media/2d-cat-crawler-screen-2.webp",
+          "alt": "Cat Crawler? gameplay screenshot 1",
+          "label": "Screenshot 1",
+          "caption": "Actual project image from Cat Crawler? on itch.io."
+        },
+        {
+          "type": "image",
+          "src": "/media/2d-cat-crawler-screen-3.webp",
+          "alt": "Cat Crawler? gameplay screenshot 2",
+          "label": "Screenshot 2",
+          "caption": "Actual project image from Cat Crawler? on itch.io."
+        }
+      ],
+      "playUrl": "https://newfis.itch.io/2d-cat-crawler",
+      "linkLabel": "Get the Windows game",
+      "sourceUrl": "https://github.com/newfis24310-gif/2D-Cat-Crawler",
+      "videoUrl": "https://youtube.com/shorts/1DnRehH5fBc",
+      "jam": {
+        "name": "Bad Ideas Game Jam 2026",
+        "url": "https://itch.io/jam/bad-ideas-game-jam-2026/rate/4420163"
+      },
+      "team": [
+        {
+          "name": "Newfis",
+          "url": "https://newfis.itch.io/"
+        },
+        {
+          "name": "Evita (me)",
+          "url": "https://evita-oikon.itch.io/"
+        },
+        {
+          "name": "Tsalo",
+          "url": "https://tsalo.itch.io/"
+        },
+        {
+          "name": "Nikoleta Makri",
+          "url": "https://mkrnikoleta.itch.io/"
+        }
+      ]
+    },
+    {
+      "id": "letters-to-the-sea",
+      "title": "Letters To The Sea",
+      "category": "3D Games",
+      "projectType": "Team game jam",
+      "platform": "Browser / HTML5",
+      "tagline": "A message in a bottle. A journey across the waves.",
+      "summary": "A top-down 3D Unity game about guiding a bottle across a dangerous sea to reach land. A six-person team project for Game Off 2025.",
+      "description": "A stranded islander sends a letter out to sea. Guide the bottle through the waves toward another island using WASD or the arrow keys. This prototype was the team’s first game-jam collaboration and interprets the theme of waves through the ocean journey and its unfolding letters.",
+      "role": "Unity environment & scene setup",
+      "status": "Prototype",
+      "highlight": "Island terrain, vegetation placement, materials, and rock prefab setup.",
+      "technologies": [
+        "Unity",
+        "Blender",
+        "Audacity",
+        "Krita"
+      ],
+      "contributions": [
+        "Created and refined island terrain and adjusted its colours in Unity.",
+        "Added palm trees and seaweed to the environment.",
+        "Imported rock assets, created materials, and prepared rock prefabs for the scene."
+      ],
+      "cover": {
+        "src": "/media/letters-to-the-sea-cover.webp",
+        "alt": "Letters To The Sea cover from its itch.io project page",
+        "caption": "Project cover from itch.io"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/letters-to-the-sea-screen-1.webp",
+          "alt": "Letters To The Sea gameplay screenshot",
+          "label": "Gameplay",
+          "caption": "Actual gameplay screenshot from Letters To The Sea on itch.io."
+        }
+      ],
+      "playUrl": "https://tsalo.itch.io/letters-to-the-sea",
+      "linkLabel": "Play on itch.io",
+      "sourceUrl": "https://github.com/panagiotisnikos/Game-Jam-Game-off",
+      "jam": {
+        "name": "Game Off 2025",
+        "url": "https://itch.io/jam/game-off-2025/rate/4025656"
+      },
+      "team": [
+        {
+          "name": "Tsalo",
+          "url": "https://tsalo.itch.io/"
+        },
+        {
+          "name": "Newfis",
+          "url": "https://newfis.itch.io/"
+        },
+        {
+          "name": "GEOSFA",
+          "url": "https://geosfa.itch.io/"
+        },
+        {
+          "name": "Evita (me)",
+          "url": "https://evita-oikon.itch.io/"
+        },
+        {
+          "name": "panagiotisnikos",
+          "url": "https://panagiotisnikos.itch.io/"
+        },
+        {
+          "name": "Nikoleta Makri",
+          "url": "https://mkrnikoleta.itch.io/"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "icon": "gamepad",
+      "title": "Unity & C# gameplay",
+      "text": "Player movement, tile interactions, collectibles, damage, and game progression.",
+      "tags": [
+        "Unity",
+        "C#",
+        "2D physics",
+        "Git/GitHub"
+      ]
+    },
+    {
+      "icon": "layers",
+      "title": "VR & player interaction",
+      "text": "Locomotion, teleportation, object grabbing, and escape-room puzzle flow.",
+      "tags": [
+        "XR Interaction Toolkit",
+        "VR",
+        "UI"
+      ]
+    },
+    {
+      "icon": "bug",
+      "title": "Testing & debugging",
+      "text": "Checking character behaviours, interactions, colliders, and gameplay functionality.",
+      "tags": [
+        "Gameplay testing",
+        "Debugging",
+        "Colliders"
+      ]
+    },
+    {
+      "icon": "boxes",
+      "title": "Levels & multimedia",
+      "text": "Scene composition, terrain and prefab setup, animation, and video integration.",
+      "tags": [
+        "Level design",
+        "Blender · Basic",
+        "CapCut"
+      ]
+    }
+  ]
+}
