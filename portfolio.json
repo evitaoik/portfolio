@@ -263,8 +263,8 @@
       ],
       "cover": {
         "src": "/media/aegean-escape-vr-cover.webp",
-        "alt": "Aegean Escape VR cover from its itch.io project page",
-        "caption": "Project cover from itch.io"
+        "alt": "Aegean Escape VR main menu inside the escape room",
+        "caption": "Main menu"
       },
       "media": [
         {
@@ -272,36 +272,36 @@
           "src": "/media/aegean-escape-vr-gameplay.mp4",
           "poster": "/media/vr-object-interaction.webp",
           "alt": "Aegean Escape VR gameplay recording showing virtual-hand interactions and escape-room puzzles",
-          "label": "Gameplay · 2:49",
-          "caption": "A full escape-room walkthrough with the original game sound. Recorded using the desktop XR controls."
+          "label": "Gameplay · 2:17",
+          "caption": "Escape-room gameplay with the original game sound. Recorded using the desktop XR controls."
         },
         {
           "type": "image",
           "src": "/media/vr-object-interaction.webp",
           "alt": "Virtual hands exploring a table with flower vases and keys",
           "label": "Object interaction",
-          "caption": "Reach out, grab objects, and look for the right key."
+          "caption": "Explore objects and discover the key."
         },
         {
           "type": "image",
           "src": "/media/vr-placement-puzzle.webp",
-          "alt": "Virtual hands facing the Shell, Starfish, and Anchor object-placement baskets",
+          "alt": "Virtual hands facing Shell, Starfish and Anchor baskets",
           "label": "Placement puzzle",
-          "caption": "Putting the right object in the right place."
+          "caption": "Match each object to its basket."
         },
         {
           "type": "image",
           "src": "/media/vr-room-exploration.webp",
-          "alt": "Virtual hands and interaction rays exploring chairs, a table, and a starfish",
-          "label": "Room exploration",
-          "caption": "Exploring the room and its hidden puzzle objects."
+          "alt": "A key held near the escape-room door",
+          "label": "Key discovery",
+          "caption": "Find the right key and unlock the next room."
         },
         {
           "type": "image",
           "src": "/media/vr-shell-interaction.webp",
-          "alt": "A seashell floating between virtual hands near flower vases and bookshelves",
-          "label": "Hands-on puzzles",
-          "caption": "Small objects become part of the escape-room puzzle."
+          "alt": "How to Play panel with desktop and VR controls",
+          "label": "How to play",
+          "caption": "Instructions for desktop and VR controls."
         }
       ],
       "playUrl": "https://evita-oikon.itch.io/aegean-escape-vr",
