@@ -1,22 +1,29 @@
 # Evita — Unity Game Development Portfolio
 
-Έτοιμη στατική έκδοση για GitHub Pages. Δεν χρειάζεται εγκατάσταση ή build.
+Hi, I'm Evita, a junior Unity game developer who enjoys creating worlds and playable game prototypes. Travelling, summer and the sea inspire my creative work.
 
-## Ανέβασμα
-1. Αποσυμπίεσε το ZIP στον υπολογιστή σου.
-2. Άνοιξε το repository `portfolio` στο GitHub.
-3. Πάτησε Upload files (ή Add file → Upload files).
-4. Σύρε τα περιεχόμενα του φακέλου μέσα στο πλαίσιο: index.html, portfolio.json, assets, media, documents, README.md. Μην ανεβάσεις το ZIP και μην βάλεις όλα τα αρχεία μέσα σε επιπλέον φάκελο.
-5. Πάτησε Commit changes.
-6. Όταν εγκρίνεις τη δημόσια δημοσίευση, άλλαξε το repository σε Public (το δωρεάν GitHub Pages απαιτεί δημόσιο repository).
-7. Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: main, Folder: /(root) → Save.
-8. Το GitHub θα εμφανίσει την πραγματική διεύθυνση όταν ολοκληρωθεί η δημοσίευση.
+This portfolio brings together my individual and team projects, with gameplay videos, screenshots and details about my contribution to each game.
 
-## Αλλαγές περιεχομένου
-Το αρχείο portfolio.json περιέχει το προφίλ, τα έργα, τις δεξιότητες και τους συνδέσμους. Άνοιξέ το στο GitHub, πάτησε το μολύβι, άλλαξε μόνο τα κείμενα μέσα στα εισαγωγικά και πάτησε Commit changes. Διατήρησε κόμματα και εισαγωγικά. Η σελίδα φορτώνει το αρχείο αυτό σε κάθε άνοιγμα· δεν χρειάζεται νέο build για αλλαγές περιεχομένου. Μπορείς επίσης να μου ζητήσεις να κάνω αλλαγές.
+## Featured projects
 
-Για το CV αντικατάστησε το PDF μέσα στο documents κρατώντας το ίδιο όνομα ή ενημέρωσε το profile.cv στο portfolio.json. Για εικόνες και βίντεο πρόσθεσε το αρχείο στο media και ενημέρωσε τη σχετική διαδρομή στο portfolio.json.
+- **Nostos (AegeanMemories)** — A solo-developed 2D Unity game inspired by Greek summer.
+- **Elven Gold Thief** — A solo 3D game project.
+- **Aegean Escape VR** — An individual virtual reality project.
+- **Cat Crawler** — A team game jam project.
+- **Letters to the Sea** — A team game jam project.
 
-Ο owner editor της ιδιωτικής έκδοσης δεν περιλαμβάνεται εδώ. Η δωρεάν στατική έκδοση χρησιμοποιεί αλλαγές περιεχομένου μέσω του portfolio.json.
+## Portfolio features
 
-Η έκδοση αυτή δεν έχει δημοσιευτεί από εμένα. Το ZIP περιέχει την επιλεγμένη φωτογραφία, το τρέχον CV, τις επαγγελματικές πληροφορίες και τα gameplay αρχεία. Η αλλαγή σε Public θα τα κάνει δημόσια διαθέσιμα.
+- Project filtering by category
+- Gameplay videos and screenshot galleries
+- Technologies and individual contributions for each project
+- About, skills and contact sections
+- Responsive layout for desktop and mobile
+
+## Content updates
+
+Profile information, projects, skills and links are stored in `portfolio.json`. Images and videos are stored in `media/`, and the CV is stored in `documents/`.
+
+## Play my games
+
+[Visit my itch.io profile](https://evita-oikon.itch.io/)
