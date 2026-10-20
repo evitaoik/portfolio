@@ -159,6 +159,74 @@
       "linkLabel": "Play Nostos in browser"
     },
     {
+      "id": "restore-the-past",
+      "title": "Restore The Past",
+      "category": "3D Games",
+      "projectType": "Personal project",
+      "platform": "Browser / HTML5",
+      "tagline": "A night in the museum conservation lab.",
+      "summary": "A 3D serious game about conserving an ancient Greek vase. Rebuild fragments, clean the surface, restore a missing section and use the evidence to write its museum label.",
+      "description": "The museum is closed, but the conservation lab is still lit. A box arrives containing FIND 017: a broken ancient vase with no label. Explore a hands-on conservation workflow: open the box, reconstruct the vessel, brush off dust to uncover clues, fill and tone the missing section, then interpret the evidence to create a museum label. The experience introduces the conservation principle of never inventing what is missing. Playable in the browser with desktop hand controls.",
+      "role": "Unity development & interaction design",
+      "status": "Released",
+      "highlight": "A hands-on restoration workflow combining object interaction, step-by-step tasks and learning through evidence.",
+      "technologies": [
+        "Unity",
+        "C#",
+        "3D",
+        "HTML5"
+      ],
+      "contributions": [
+        "Built an interactive museum conservation setting with desktop-controlled hands and object manipulation.",
+        "Created a guided workflow for reconstructing, cleaning and restoring a fragmented vase.",
+        "Connected observation and interpretation with the final museum-label task."
+      ],
+      "cover": {
+        "src": "/media/restore-the-past-cover.webp",
+        "alt": "Restore The Past cover showing an ancient vase in a conservation laboratory",
+        "caption": "A night in the conservation lab"
+      },
+      "media": [
+        {
+          "type": "image",
+          "src": "/media/restore-the-past-31140881.webp",
+          "alt": "Virtual hands and vase fragments beside the reconstruction guide",
+          "label": "Reconstruction",
+          "caption": "Reassembling the vase fragments on the conservation workbench."
+        },
+        {
+          "type": "image",
+          "src": "/media/restore-the-past-31140880.webp",
+          "alt": "A reconstructed vase and the cleaning stage guide",
+          "label": "Cleaning the vessel",
+          "caption": "Brush away dust to reveal clues about the object."
+        },
+        {
+          "type": "image",
+          "src": "/media/restore-the-past-31140883.webp",
+          "alt": "An ancient vase on the turntable with conservation tools",
+          "label": "Restoring the surface",
+          "caption": "The vessel after cleaning, ready for the next conservation steps."
+        },
+        {
+          "type": "image",
+          "src": "/media/restore-the-past-31140882.webp",
+          "alt": "Restore The Past main menu",
+          "label": "Main menu",
+          "caption": "A night in the museum conservation lab."
+        },
+        {
+          "type": "image",
+          "src": "/media/restore-the-past-31140884.webp",
+          "alt": "An explanation of the game and its museum conservation inspiration",
+          "label": "About the game",
+          "caption": "A serious game inspired by the work of museum conservators."
+        }
+      ],
+      "playUrl": "https://evita-oikon.itch.io/restore-the-past",
+      "linkLabel": "Play Restore The Past in browser"
+    },
+    {
       "id": "elven-heist",
       "title": "The Gold Thief: An Elven Heist",
       "category": "3D Games",
