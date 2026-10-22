@@ -188,6 +188,14 @@
       },
       "media": [
         {
+          "type": "video",
+          "src": "/media/restore-the-past-gameplay.mp4",
+          "poster": "/media/restore-the-past-31140881.webp",
+          "alt": "Restore The Past gameplay recording",
+          "label": "Gameplay · 0:40",
+          "caption": "A short gameplay recording of Restore The Past."
+        },
+        {
           "type": "image",
           "src": "/media/restore-the-past-31140881.webp",
           "alt": "Virtual hands and vase fragments beside the reconstruction guide",
